@@ -1,0 +1,6 @@
+# GitHub 저장소에 push가 되지않도록 등록한다.
+
+/node_modules
+.env
+
+
